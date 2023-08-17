@@ -1,5 +1,12 @@
+<p dir="auto">
+<img src="https://media.licdn.com/dms/image/C4E16AQEawu29o5BLlQ/profile-displaybackgroundimage-shrink_350_1400/0/1645639742328?e=1697673600&v=beta&t=YDNfqlZ0jVlzUkECzXaKbRNg-fgD2lI4Aw7Rmf82aqM" alt="Julio M Cruz" style="max-width: 100%;">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Julio M Cruz</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Sr. Software Engineer | Master of Science | Web 3.0</h3>
+
+<p>Proactive and creative professional with a strong capacity for analysis and generating solutions. I possess exceptional decision-making skills and thrive in a team environment, working towards set goals.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
