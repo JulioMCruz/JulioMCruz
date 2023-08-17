@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Julio M Cruz</h1>
 <h3 align="center">Sr. Software Engineer | Master of Science | Web 3.0</h3>
 
-<p>Proactive and creative professional with a strong capacity for analysis and generating solutions. I possess exceptional decision-making skills and thrive in a team environment, working towards set goals.</p>
+<p>Dynamic and innovative Web3/Blockchain developer with a robust ability to analyze and implement decentralized solutions. I have profound expertise in cloud integrations, demonstrate top-tier problem-solving aptitude, and excel in collaborative settings, driving projects to fruition.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
