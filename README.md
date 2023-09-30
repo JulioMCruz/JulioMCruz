@@ -10,6 +10,62 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juliomcruz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliomcruz" height="30" width="40" /></a>
+<a href="https://discord.gg/JulioMCruz#8119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz#8119" height="30" width="40" /></a>
+</p>
+
+<h2>Honors & Awards</h2>
+
+<b>ETH Global Hackathon - ETHGlobal New York<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/teachai-pkr1z" target="_blank">TeachAI</a></li>
+<li>Winner:Cartesi - Best MVP</li>
+<li>Winner:The Graph - Best New Subgraph/Substream</li>
+<li>Issue September 24, 2023</li>
+</ul>
+
+<b>ETH Chicago Hackathon</b>
+<ul>
+<li>Product: <a href="https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/projects/clmnjpnvf058ktn016yi81dha/idea" target="_blank">ChiCare</a></li>
+<li>Winner: ETHChi for Good</li>
+<li>Winner: API3</li>
+<li>Issue September 17, 2023</li>
+</ul>
+
+<b>ETH Global Hackathon - Super Hack</b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/passportglobal-jptoi" target="_blank">Passport Global</a></li>
+<li>Winner: Mode — Prize Pool</li>
+<li>Issue August 13, 2023</li>
+</ul>
+
+<b>ETH Global Hackathon - ETHGlobal Waterloo</b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/user-proof-membership-jvwx3" target="_blank">User Proof Membership</a></li>
+<li>Winner: Sismo — Best Technical WOW Factor</li>
+<li>Winner: Polygon — Pool Prize</li>
+<li>Issue June 25, 2023</li>
+</ul>
+
+<b>Miami Buildhaton</b>
+<ul>
+<li>Product: <a href="https://devpost.com/software/ethmiami-xyz-ov0icb" target="_blank">ETHMiami.xyz</a></li>
+<li>Winner: OWL Protocol Bounties</li>
+<li>Issue April 2, 2023</li>
+</ul>
+
+<b>ETH Global Hackathon - Hack FEVM</b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/credlancer-credentialed-freelancer-protocol-znzpf" target="_blank">CredLancer</a></li>
+<li>Winner: HackFEVM Finalist</li>
+<li>Issue November 26, 2022</li>
+</ul>
+
+
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliomcruz" alt="juliomcruz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/juliomcruz" target="blank"><img src="https://img.shields.io/twitter/follow/juliomcruz?logo=twitter&style=for-the-badge" alt="juliomcruz" /></a> </p>
