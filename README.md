@@ -19,6 +19,22 @@
 
 <h2>Honors & Awards</h2>
 
+<b>ETH Miami<b>
+<ul>
+<li>Product: <a href="https://dorahacks.io/buidl/7822" target="_blank">HobbyFlo</a></li>
+<li>Winner: Propy - 1st Place - Real World Assets</li>
+<li>Winner: Cello - 2nd Place - Refi Track</li>
+<li>Issue Octubre 29, 2023</li>
+</ul>
+
+<b>ETH Global Hackathon - ETHOnline 2023<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/kindred-0khmr" target="_blank">Kindred Protocol</a></li>
+<li>Winner: Scroll - Best Use</li>
+<li>Winner: Scroll — Pool Prize</li>
+<li>Issue Octubre 27, 2023</li>
+</ul>
+
 <b>ETH Global Hackathon - ETHGlobal New York<b>
 <ul>
 <li>Product: <a href="https://ethglobal.com/showcase/teachai-pkr1z" target="_blank">TeachAI</a></li>
