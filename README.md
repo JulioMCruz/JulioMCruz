@@ -1,5 +1,5 @@
 <p dir="auto">
-<img src="https://media.licdn.com/dms/image/C4E16AQEawu29o5BLlQ/profile-displaybackgroundimage-shrink_350_1400/0/1645639742328?e=1697673600&v=beta&t=YDNfqlZ0jVlzUkECzXaKbRNg-fgD2lI4Aw7Rmf82aqM" alt="Julio M Cruz" style="max-width: 100%;">
+<img src="https://media.licdn.com/dms/image/C4E16AQEawu29o5BLlQ/profile-displaybackgroundimage-shrink_350_1400/0/1645639742813?e=1710374400&v=beta&t=MTiNKO1vC1NxIx2aOC6aUeY3XbzAg_0UylschyPSs8I" alt="Julio M Cruz" style="max-width: 100%;">
 </p>
 
 
