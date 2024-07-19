@@ -19,6 +19,36 @@
 
 <h2>Honors & Awards</h2>
 
+<b>ETH Global Hackathon - ETH Global Brussels<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/n-acc-fa1kp" target="_blank">n/acc</a></li>
+<li>Winner: Chronicle Protocol - Defi Track: Fisrt Place</li>
+<li>Winner: Polygon - Best ZK dApp</li>
+<li>Issue July 14, 2024</li>
+</ul>
+
+<b>ETH Global Hackathon - ETH Global London<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/zycket-hxc9f" target="_blank">Zycket</a></li>
+<li>Winner: Chiliz - Pool Prize</li>
+<li>Winner: Arbitrum - Qualifying Arbitrum</li>
+<li>Issue March 17, 2024</li>
+</ul>
+
+<b>ETH Global Hackathon - LFGHO<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/streamline-40r8i" target="_blank">Streamline</a></li>
+<li>Winner: Family - Pool Prize</li>
+<li>Issue January 24, 2024</li>
+</ul>
+
+<b>Algorand Build-a_Bull Hackathon<b>
+<ul>
+<li>Product: <a href="https://dorahacks.io/buidl/8021" target="_blank">LuxFlo</a></li>
+<li>Winner: Consumer Track - Top 5</li>
+<li>Issue November 19, 2023</li>
+</ul>
+
 <b>ETH Miami<b>
 <ul>
 <li>Product: <a href="https://dorahacks.io/buidl/7822" target="_blank">HobbyFlo</a></li>
