@@ -23,7 +23,7 @@
 <ul>
 <li>Product: <a href="https://ethglobal.com/showcase/aurum-7ry36" target="_blank">Aurum</a></li>
 <li>Winner: Chronicle Protocol - Best Integration of Chronicle Protocol: 1st place</li>
-<li>Winner: Unlimit - Crypto Checkouts/li>
+<li>Winner: Unlimit - Crypto Checkouts</li>
 <li>Issue October 20, 2024</li>
 </ul>
 
