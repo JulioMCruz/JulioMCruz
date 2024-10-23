@@ -21,6 +21,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliomcruz" alt="juliomcruz" /></a> </p>
 
+<br />
+
 <h2>Honors & Awards</h2>
 
 <b>ETH Global Hackathon - ETH Global San Francisco<b>
