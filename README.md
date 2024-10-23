@@ -19,6 +19,28 @@
 
 <h2>Honors & Awards</h2>
 
+<b>ETH Global Hackathon - ETH Global San Francisco<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/aurum-7ry36" target="_blank">Aurum</a></li>
+<li>Winner: Chronicle Protocol - Best Integration of Chronicle Protocol: 1st place</li>
+<li>Winner: Unlimit - Crypto Checkouts/li>
+<li>Issue October 20, 2024</li>
+</ul>
+
+<b>Permissionless III<b>
+<ul>
+<li>Product: <a href="https://app.buidlbox.io/projects/m5pire?path=projects%2Fm5pire" target="_blank">M5pire</a></li>
+<li>Winner: Rootstock - Build an EVM dApp on Bitcoin using Rootstock/li>
+<li>Issue October 10, 2024</li>
+</ul>
+
+<b>ETH Global Hackathon - Superhack 2024<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/xocpay-uji2b" target="_blank">XocPay</a></li>
+<li>Winner: Worldcoin - Pool Prize</li>
+<li>Issue August 16, 2024</li>
+</ul>
+
 <b>ETH Global Hackathon - ETH Global Brussels<b>
 <ul>
 <li>Product: <a href="https://ethglobal.com/showcase/n-acc-fa1kp" target="_blank">n/acc</a></li>
@@ -54,7 +76,7 @@
 <li>Product: <a href="https://dorahacks.io/buidl/7822" target="_blank">HobbyFlo</a></li>
 <li>Winner: Propy - 1st Place - Real World Assets</li>
 <li>Winner: Cello - 2nd Place - Refi Track</li>
-<li>Issue Octubre 29, 2023</li>
+<li>Issue October 29, 2023</li>
 </ul>
 
 <b>ETH Global Hackathon - ETHOnline 2023<b>
@@ -62,7 +84,7 @@
 <li>Product: <a href="https://ethglobal.com/showcase/kindred-0khmr" target="_blank">Kindred Protocol</a></li>
 <li>Winner: Scroll - Best Use</li>
 <li>Winner: Scroll — Pool Prize</li>
-<li>Issue Octubre 27, 2023</li>
+<li>Issue October 27, 2023</li>
 </ul>
 
 <b>ETH Global Hackathon - ETHGlobal New York<b>
