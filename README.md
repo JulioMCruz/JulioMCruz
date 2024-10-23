@@ -30,7 +30,7 @@
 <b>Permissionless III<b>
 <ul>
 <li>Product: <a href="https://app.buidlbox.io/projects/m5pire?path=projects%2Fm5pire" target="_blank">M5pire</a></li>
-<li>Winner: Rootstock - Build an EVM dApp on Bitcoin using Rootstock/li>
+<li>Winner: Rootstock - Build an EVM dApp on Bitcoin using Rootstock</li>
 <li>Issue October 10, 2024</li>
 </ul>
 
