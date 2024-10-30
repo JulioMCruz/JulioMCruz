@@ -25,6 +25,13 @@
 
 <h2>Honors & Awards</h2>
 
+<b>Base Around The World - Latin America<b>
+<ul>
+<li>Product: <a href="https://devfolio.co/projects/credittalent-42f6" target="_blank">CrediTalent</a></li>
+<li>BASED LATAM WINNER</li>
+<li>Issue October 30, 2024</li>
+</ul>
+
 <b>ETH Global Hackathon - ETH Global San Francisco<b>
 <ul>
 <li>Product: <a href="https://ethglobal.com/showcase/aurum-7ry36" target="_blank">Aurum</a></li>
