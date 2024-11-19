@@ -25,6 +25,16 @@
 
 <h2>Honors & Awards</h2>
 
+<b>ETH Global Hackathon - ETH Global Bangkok<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/flashfi-g27p4" target="_blank">FlashFi</a></li>
+<li>Winner: Celo - Best Open-Source Tool Built on Celo L2: 2nd place</li>
+<li>Winner: LayerZero - Best Omnichain Solution: 2nd place</li>
+<li>Winner: Rootstock - Best DeFi dApp on Rootstock</li>
+<li>Winner: Blockscout - Blockscout Explorer Big Pool Prize: Pool prize</li>
+<li>Issue November 17, 2024</li>
+</ul>
+
 <b>Base Around The World - Latin America<b>
 <ul>
 <li>Product: <a href="https://devfolio.co/projects/credittalent-42f6" target="_blank">CrediTalent</a></li>
