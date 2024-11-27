@@ -10,6 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
+## Let's Connect! 📅
+Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.com/JulioMCruz)
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JulioMCruz)
 
 <h2 align="left">Connect with me:</h2>
