@@ -1,5 +1,5 @@
 <p dir="auto">
-<img src="https://pbs.twimg.com/profile_banners/82677289/1711985021/1500x500" alt="Julio M Cruz" style="max-width: 100%;">
+<img src="https://x.com/JulioMCruz/header_photo" alt="Julio M Cruz" style="max-width: 100%;">
 </p>
 
 
