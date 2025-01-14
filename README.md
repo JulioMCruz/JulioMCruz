@@ -170,7 +170,7 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliomcruz&show_icons=true&locale=en" alt="juliomcruz" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JulioMCruz" alt="GitHub Streak" /></a>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JulioMCruz)
 
 <br />
 
