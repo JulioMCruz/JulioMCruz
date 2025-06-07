@@ -30,6 +30,21 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 
 <h2>Honors & Awards</h2>
 
+<b>ETH Global Hackathon - ETHGlobal Prague<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/showcase/kairos-75wyr" target="_blank">Kairos</a></li>
+<li>Winner: Flare Network - MAIN TRACK: use protocols on Flare blockchain 1st place</li>
+<li>Issue Jun 1, 2025</li>
+</ul>
+
+<b>ETH Global Hackathon - ETHGlobal Prague<b>
+<ul>
+<li>Product: <a href="https://ethglobal.com/" target="_blank">Infinity</a></li>
+<li>Winner: Coinbase Developer Platform - AgentKit Pool Prize: Pool prize</li>
+<li>Issue Feb 14, 2025</li>
+</ul>
+
+
 <b>ETH Global Hackathon - ETH Global Bangkok<b>
 <ul>
 <li>Product: <a href="https://ethglobal.com/showcase/flashfi-g27p4" target="_blank">FlashFi</a></li>
