@@ -58,7 +58,7 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <li>Issue March 1st, 2025</li>
 </ul>
 
-<b>ETH Global Hackathon - ETHGlobal Prague<b>
+<b>ETH Global Hackathon - Agentic Ethereum<b>
 <ul>
 <li>Product: <a href="https://ethglobal.com/" target="_blank">Infinity</a></li>
 <li>Winner: Coinbase Developer Platform - AgentKit Pool Prize: Pool prize</li>
