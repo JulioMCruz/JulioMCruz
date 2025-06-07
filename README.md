@@ -37,18 +37,25 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <li>Issue Jun 1, 2025</li>
 </ul>
 
+<b>Base Batches - Latam<b>
+<ul>
+<li>Product: <a href="https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4" target="_blank">AI ART3 HUB</a></li>
+<li>BASED BATCH - LATAM WINNER</li>
+<li>Issue May 17, 2025</li>
+</ul>
+
 <b>ETHSF Hackathon 2025<b>
 <ul>
 <li>Product: <a href="https://devfolio.co/projects/moments-7202" target="_blank">My Moments</a></li>
 <li>Winner: Base: Third Prize</li>
-<li><Issue March 15, 2025/li>
+<li>Issue March 15, 2025</li>
 </ul>
 
 <b>ETH Denver 2025<b>
 <ul>
 <li>Product: <a href="https://devfolio.co/projects/mememe-memecoins-in-your-pocket-71e7" target="_blank">mememe, memecoins in your pocket</a></li>
 <li>Winner: Divvi: Second Prize: NextGen DeFi UX: Build a Mobile DeFi Consumer App - Prize(s) </li>
-<li><Issue March 1st, 2025/li>
+<li>Issue March 1st, 2025</li>
 </ul>
 
 <b>ETH Global Hackathon - ETHGlobal Prague<b>
@@ -57,7 +64,6 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <li>Winner: Coinbase Developer Platform - AgentKit Pool Prize: Pool prize</li>
 <li>Issue Feb 14, 2025</li>
 </ul>
-
 
 <b>ETH Global Hackathon - ETH Global Bangkok<b>
 <ul>
