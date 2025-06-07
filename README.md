@@ -37,6 +37,20 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <li>Issue Jun 1, 2025</li>
 </ul>
 
+<b>ETHSF Hackathon 2025<b>
+<ul>
+<li>Product: <a href="https://devfolio.co/projects/moments-7202" target="_blank">My Moments</a></li>
+<li>Winner: Base: Third Prize</li>
+<li><Issue March 15, 2025/li>
+</ul>
+
+<b>ETH Denver 2025<b>
+<ul>
+<li>Product: <a href="https://devfolio.co/projects/mememe-memecoins-in-your-pocket-71e7" target="_blank">mememe, memecoins in your pocket</a></li>
+<li>Winner: Divvi: Second Prize: NextGen DeFi UX: Build a Mobile DeFi Consumer App - Prize(s) </li>
+<li><Issue March 1st, 2025/li>
+</ul>
+
 <b>ETH Global Hackathon - ETHGlobal Prague<b>
 <ul>
 <li>Product: <a href="https://ethglobal.com/" target="_blank">Infinity</a></li>
