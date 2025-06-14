@@ -28,18 +28,12 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <a href="https://discord.gg/JulioMCruz#8119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz#8119" height="30" width="40" /></a>
 </p>
 
-<h2>Statistics</h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliomcruz" alt="juliomcruz" /></a> </p>
+<div align="center">
 
 <h2>🏆 Honors & Awards</h2>
 
-<div align="center">
-  
-### 📊 Achievement Summary
+### 📊 Achievement Summary  
 **Total Awards:** 25+ | **Years Active:** 2022-2025 | **Major Wins:** 15 First Places
-
-</div>
 
 ---
 
@@ -209,8 +203,6 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 
 ---
 
-<div align="center">
-
 ### 🎯 Key Achievements by Category
 
 | 🏆 **Category** | 🔢 **Count** | 🌟 **Notable Wins** |
@@ -234,7 +226,11 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliomcruz&show_icons=true&locale=en" alt="juliomcruz" /></p>
 
+<div align="center">
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JulioMCruz)
+
+</div>
 
 <br />
 
