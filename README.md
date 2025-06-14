@@ -8,7 +8,7 @@
 
 <p>Dynamic and innovative Onchain developer with a robust ability to analyze and implement decentralized solutions. I have profound expertise in cloud integrations, demonstrate top-tier problem-solving aptitude, and excel in collaborative settings, driving projects to fruition.</p>
 
-![Talent Protocol Score](https://talent-protocol-widget.vercel.app/widget/0xc2564e41B7F5Cb66d2d99466450CfebcE9e8228f)](https://app.talentprotocol.com/4e9db003-da84-466e-a951-c4c8973dfda9)
+[![Talent Protocol Score](https://talent-protocol-widget.vercel.app/widget/0xc2564e41B7F5Cb66d2d99466450CfebcE9e8228f)](https://app.talentprotocol.com/4e9db003-da84-466e-a951-c4c8973dfda9)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
