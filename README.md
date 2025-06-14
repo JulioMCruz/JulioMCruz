@@ -8,8 +8,8 @@
 
 <p>Dynamic and innovative Onchain developer with a robust ability to analyze and implement decentralized solutions. I have profound expertise in cloud integrations, demonstrate top-tier problem-solving aptitude, and excel in collaborative settings, driving projects to fruition.</p>
 
-<div align="center">
-  <a href="https://app.talentprotocol.com/4e9db003-da84-466e-a951-c4c8973dfda9">
+<div align="center" style="margin: 0.5rem 0;">
+  <a href="https://app.talentprotocol.com/4e9db003-da84-466e-a951-c4c8973dfda9" target="_blank" rel="noopener noreferrer">
     <img src="https://talent-protocol-widget.vercel.app/widget/0xc2564e41B7F5Cb66d2d99466450CfebcE9e8228f" alt="Talent Protocol Score" />
   </a>
 </div>
