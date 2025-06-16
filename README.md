@@ -28,164 +28,204 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <a href="https://discord.gg/JulioMCruz#8119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz#8119" height="30" width="40" /></a>
 </p>
 
-<h2>🏆 Honors & Awards</h2>
+<h2 align="center">🏆 Honors & Awards</h2>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Total%20Awards-24-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
+  <img src="https://img.shields.io/badge/First%20Place-7-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
+  <img src="https://img.shields.io/badge/Second%20Place-5-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
+  <img src="https://img.shields.io/badge/Third%20Place-1-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
+</div>
 
-### 🏅 **Achievement Summary**
+<br/>
 
-| Year | Awards | 1st Place | 2nd Place | 3rd Place | Special/Pool |
-|------|--------|-----------|-----------|-----------|--------------|
-| 2025 |   5    |     2     |     1     |     1     |      1       |
-| 2024 |   8    |     3     |     2     |     0     |      3       |
-| 2023 |  10    |     2     |     2     |     0     |      6       |
-| 2022 |   1    |     0     |     0     |     0     |      1       |
-|**Total**|**24**|  **7**   |  **5**    |  **1**    |   **11**     |
-
-*Building the future of Web3, one hackathon at a time! 🚀*
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025-5%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
+        <br/>
+        <strong>🔥 Active Year</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2024-8%20Awards-4ecdc4?style=flat-square&logo=calendar" alt="2024"/>
+        <br/>
+        <strong>🚀 Peak Performance</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2023-10%20Awards-45b7d1?style=flat-square&logo=calendar" alt="2023"/>
+        <br/>
+        <strong>🌟 Record Year</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2022-1%20Award-96ceb4?style=flat-square&logo=calendar" alt="2022"/>
+        <br/>
+        <strong>🌱 Beginning</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<details open>
-<summary><h3>🗓️ 2025 (5 Awards)</h3></summary>
+## 🗓️ **2025 Achievements** `5 Awards`
 
-**ETH Global Hackathon - ETHGlobal Prague** 🏆  
-• Product: [Kairos](https://ethglobal.com/showcase/kairos-75wyr)  
-• 🥇 **Flare Network - MAIN TRACK: 1st place**  
-• 📅 June 1, 2025
+<table>
+<tr>
+<td width="60%">
 
-**Base Batches - Latam** 🏆  
-• Product: [AI ART3 HUB](https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4)  
-• 🏆 **BASED BATCH - LATAM WINNER**  
-• 📅 May 17, 2025
+**🏆 ETH Global Prague** - *June 1, 2025*  
+**Product:** [Kairos](https://ethglobal.com/showcase/kairos-75wyr)  
+🥇 **Flare Network - MAIN TRACK: 1st place**
 
-**ETHSF Hackathon 2025** 🏆  
-• Product: [My Moments](https://devfolio.co/projects/moments-7202)  
-• 🥉 **Base: Third Prize**  
-• 📅 March 15, 2025
+**🏆 Base Batches - Latam** - *May 17, 2025*  
+**Product:** [AI ART3 HUB](https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4)  
+🏆 **BASED BATCH - LATAM WINNER**
 
-**ETH Denver 2025** 🏆  
-• Product: [mememe, memecoins in your pocket](https://devfolio.co/projects/mememe-memecoins-in-your-pocket-71e7)  
-• 🥈 **Divvi: Second Prize - NextGen DeFi UX**  
-• 📅 March 1, 2025
+**🏆 ETHSF Hackathon 2025** - *March 15, 2025*  
+**Product:** [My Moments](https://devfolio.co/projects/moments-7202)  
+🥉 **Base: Third Prize**
 
-**ETH Global Hackathon - Agentic Ethereum** 🏆  
-• Product: [Infinity](https://ethglobal.com/)  
-• 🎖️ **Coinbase Developer Platform - AgentKit Pool Prize**  
-• 📅 February 14, 2025
+</td>
+<td width="40%">
+
+**🏆 ETH Denver 2025** - *March 1, 2025*  
+**Product:** [mememe, memecoins in your pocket](https://devfolio.co/projects/mememe-memecoins-in-your-pocket-71e7)  
+🥈 **Divvi: Second Prize - NextGen DeFi UX**
+
+**🏆 Agentic Ethereum** - *February 14, 2025*  
+**Product:** [Infinity](https://ethglobal.com/)  
+🎖️ **Coinbase Developer Platform - AgentKit Pool Prize**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗓️ **2024 Achievements** `8 Awards`
+
+<details>
+<summary><strong>🔽 Click to expand 2024 awards</strong></summary>
+
+<table>
+<tr>
+<td width="50%">
+
+**🏆 ETH Global Bangkok** - *November 17, 2024*  
+**Product:** [FlashFi](https://ethglobal.com/showcase/flashfi-g27p4)  
+🥈 **Celo - Best Open-Source Tool Built on Celo L2: 2nd place**  
+🥈 **LayerZero - Best Omnichain Solution: 2nd place**  
+🏆 **Rootstock - Best DeFi dApp on Rootstock**  
+🎖️ **Blockscout - Blockscout Explorer Big Pool Prize**
+
+**🏆 Base Around The World - Latin America** - *October 30, 2024*  
+**Product:** [CrediTalent](https://devfolio.co/projects/credittalent-42f6)  
+🏆 **BASED LATAM WINNER**
+
+**🏆 ETH Global San Francisco** - *October 20, 2024*  
+**Product:** [Aurum](https://ethglobal.com/showcase/aurum-7ry36)  
+🥇 **Chronicle Protocol - Best Integration: 1st place**  
+🏆 **Unlimit - Crypto Checkouts**
+
+**🏆 Permissionless III** - *October 10, 2024*  
+**Product:** [M5pire](https://app.buidlbox.io/projects/m5pire?path=projects%2Fm5pire)  
+🏆 **Rootstock - Build an EVM dApp on Bitcoin using Rootstock**
+
+</td>
+<td width="50%">
+
+**🏆 Superhack 2024** - *August 16, 2024*  
+**Product:** [XocPay](https://ethglobal.com/showcase/xocpay-uji2b)  
+🎖️ **Worldcoin - Pool Prize**
+
+**🏆 ETH Global Brussels** - *July 14, 2024*  
+**Product:** [n/acc](https://ethglobal.com/showcase/n-acc-fa1kp)  
+🥇 **Chronicle Protocol - DeFi Track: First Place**  
+🏆 **Polygon - Best ZK dApp**
+
+**🏆 ETH Global London** - *March 17, 2024*  
+**Product:** [Zycket](https://ethglobal.com/showcase/zycket-hxc9f)  
+🎖️ **Chiliz - Pool Prize**  
+🎖️ **Arbitrum - Qualifying Arbitrum**
+
+**🏆 LFGHO** - *January 24, 2024*  
+**Product:** [Streamline](https://ethglobal.com/showcase/streamline-40r8i)  
+🎖️ **Family - Pool Prize**
+
+</td>
+</tr>
+</table>
 
 </details>
 
+---
+
+## 🗓️ **2023 Achievements** `10 Awards`
+
 <details>
-<summary><h3>🗓️ 2024 (8 Awards)</h3></summary>
+<summary><strong>🔽 Click to expand 2023 awards</strong></summary>
 
-**ETH Global Hackathon - ETH Global Bangkok** 🏆  
-• Product: [FlashFi](https://ethglobal.com/showcase/flashfi-g27p4)  
-• 🥈 **Celo - Best Open-Source Tool Built on Celo L2: 2nd place**  
-• 🥈 **LayerZero - Best Omnichain Solution: 2nd place**  
-• 🏆 **Rootstock - Best DeFi dApp on Rootstock**  
-• 🎖️ **Blockscout - Blockscout Explorer Big Pool Prize**  
-• 📅 November 17, 2024
+<table>
+<tr>
+<td width="50%">
 
-**Base Around The World - Latin America** 🏆  
-• Product: [CrediTalent](https://devfolio.co/projects/credittalent-42f6)  
-• 🏆 **BASED LATAM WINNER**  
-• 📅 October 30, 2024
+**🏆 Algorand Build-a-Bull Hackathon** - *November 19, 2023*  
+**Product:** [LuxFlo](https://dorahacks.io/buidl/8021)  
+🏅 **Consumer Track - Top 5**
 
-**ETH Global Hackathon - ETH Global San Francisco** 🏆  
-• Product: [Aurum](https://ethglobal.com/showcase/aurum-7ry36)  
-• 🥇 **Chronicle Protocol - Best Integration: 1st place**  
-• 🏆 **Unlimit - Crypto Checkouts**  
-• 📅 October 20, 2024
+**🏆 ETH Miami** - *October 29, 2023*  
+**Product:** [HobbyFlo](https://dorahacks.io/buidl/7822)  
+🥇 **Propy - 1st Place - Real World Assets**  
+🥈 **Celo - 2nd Place - ReFi Track**
 
-**Permissionless III** 🏆  
-• Product: [M5pire](https://app.buidlbox.io/projects/m5pire?path=projects%2Fm5pire)  
-• 🏆 **Rootstock - Build an EVM dApp on Bitcoin using Rootstock**  
-• 📅 October 10, 2024
+**🏆 ETHOnline 2023** - *October 27, 2023*  
+**Product:** [Kindred Protocol](https://ethglobal.com/showcase/kindred-0khmr)  
+🏆 **Scroll - Best Use**  
+🎖️ **Scroll - Pool Prize**
 
-**ETH Global Hackathon - Superhack 2024** 🏆  
-• Product: [XocPay](https://ethglobal.com/showcase/xocpay-uji2b)  
-• 🎖️ **Worldcoin - Pool Prize**  
-• 📅 August 16, 2024
+**🏆 ETHGlobal New York** - *September 24, 2023*  
+**Product:** [TeachAI](https://ethglobal.com/showcase/teachai-pkr1z)  
+🏆 **Cartesi - Best MVP**  
+🏆 **The Graph - Best New Subgraph/Substream**
 
-**ETH Global Hackathon - ETH Global Brussels** 🏆  
-• Product: [n/acc](https://ethglobal.com/showcase/n-acc-fa1kp)  
-• 🥇 **Chronicle Protocol - DeFi Track: First Place**  
-• 🏆 **Polygon - Best ZK dApp**  
-• 📅 July 14, 2024
+**🏆 ETH Chicago Hackathon** - *September 17, 2023*  
+**Product:** [ChiCare](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/projects/clmnjpnvf058ktn016yi81dha/idea)  
+🏆 **ETHChi for Good**  
+🏆 **API3**
 
-**ETH Global Hackathon - ETH Global London** 🏆  
-• Product: [Zycket](https://ethglobal.com/showcase/zycket-hxc9f)  
-• 🎖️ **Chiliz - Pool Prize**  
-• 🎖️ **Arbitrum - Qualifying Arbitrum**  
-• 📅 March 17, 2024
+</td>
+<td width="50%">
 
-**ETH Global Hackathon - LFGHO** 🏆  
-• Product: [Streamline](https://ethglobal.com/showcase/streamline-40r8i)  
-• 🎖️ **Family - Pool Prize**  
-• 📅 January 24, 2024
+**🏆 Super Hack** - *August 13, 2023*  
+**Product:** [Passport Global](https://ethglobal.com/showcase/passportglobal-jptoi)  
+🎖️ **Mode - Prize Pool**
+
+**🏆 ETHGlobal Waterloo** - *June 25, 2023*  
+**Product:** [User Proof Membership](https://ethglobal.com/showcase/user-proof-membership-jvwx3)  
+🏆 **Sismo - Best Technical WOW Factor**  
+🎖️ **Polygon - Pool Prize**
+
+**🏆 Miami Buildhaton** - *April 2, 2023*  
+**Product:** [ETHMiami.xyz](https://devpost.com/software/ethmiami-xyz-ov0icb)  
+🏆 **OWL Protocol Bounties**
+
+</td>
+</tr>
+</table>
 
 </details>
 
-<details>
-<summary><h3>🗓️ 2023 (10 Awards)</h3></summary>
+---
 
-**Algorand Build-a-Bull Hackathon** 🏆  
-• Product: [LuxFlo](https://dorahacks.io/buidl/8021)  
-• 🏅 **Consumer Track - Top 5**  
-• 📅 November 19, 2023
-
-**ETH Miami** 🏆  
-• Product: [HobbyFlo](https://dorahacks.io/buidl/7822)  
-• 🥇 **Propy - 1st Place - Real World Assets**  
-• 🥈 **Celo - 2nd Place - ReFi Track**  
-• 📅 October 29, 2023
-
-**ETH Global Hackathon - ETHOnline 2023** 🏆  
-• Product: [Kindred Protocol](https://ethglobal.com/showcase/kindred-0khmr)  
-• 🏆 **Scroll - Best Use**  
-• 🎖️ **Scroll - Pool Prize**  
-• 📅 October 27, 2023
-
-**ETH Global Hackathon - ETHGlobal New York** 🏆  
-• Product: [TeachAI](https://ethglobal.com/showcase/teachai-pkr1z)  
-• 🏆 **Cartesi - Best MVP**  
-• 🏆 **The Graph - Best New Subgraph/Substream**  
-• 📅 September 24, 2023
-
-**ETH Chicago Hackathon** 🏆  
-• Product: [ChiCare](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/projects/clmnjpnvf058ktn016yi81dha/idea)  
-• 🏆 **ETHChi for Good**  
-• 🏆 **API3**  
-• 📅 September 17, 2023
-
-**ETH Global Hackathon - Super Hack** 🏆  
-• Product: [Passport Global](https://ethglobal.com/showcase/passportglobal-jptoi)  
-• 🎖️ **Mode - Prize Pool**  
-• 📅 August 13, 2023
-
-**ETH Global Hackathon - ETHGlobal Waterloo** 🏆  
-• Product: [User Proof Membership](https://ethglobal.com/showcase/user-proof-membership-jvwx3)  
-• 🏆 **Sismo - Best Technical WOW Factor**  
-• 🎖️ **Polygon - Pool Prize**  
-• 📅 June 25, 2023
-
-**Miami Buildhaton** 🏆  
-• Product: [ETHMiami.xyz](https://devpost.com/software/ethmiami-xyz-ov0icb)  
-• 🏆 **OWL Protocol Bounties**  
-• 📅 April 2, 2023
-
-</details>
+## 🗓️ **2022 Achievements** `1 Award`
 
 <details>
-<summary><h3>🗓️ 2022 (1 Award)</h3></summary>
+<summary><strong>🔽 Click to expand 2022 awards</strong></summary>
 
-**ETH Global Hackathon - Hack FEVM** 🏆  
-• Product: [CredLancer](https://ethglobal.com/showcase/credlancer-credentialed-freelancer-protocol-znzpf)  
-• 🏅 **HackFEVM Finalist**  
-• 📅 November 26, 2022
+**🏆 Hack FEVM** - *November 26, 2022*  
+**Product:** [CredLancer](https://ethglobal.com/showcase/credlancer-credentialed-freelancer-protocol-znzpf)  
+🏅 **HackFEVM Finalist**
 
 </details>
 
@@ -193,20 +233,42 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 
 <div align="center">
 
-### 📊 **Awards Breakdown by Category**
+## 📊 **Performance Analytics**
 
-| Category | Count | Percentage |
-|----------|-------|------------|
-| 🥇 First Place | 7 | 29% |
-| 🥈 Second Place | 5 | 21% |
-| 🥉 Third Place | 1 | 4% |
-| 🎖️ Pool/Special Prizes | 11 | 46% |
-| **Total Awards** | **24** | **100%** |
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🥇%20First%20Place-7%20Awards-gold?style=for-the-badge" alt="First Place"/>
+<br/>
+<strong>29% Win Rate</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🥈%20Second%20Place-5%20Awards-silver?style=for-the-badge" alt="Second Place"/>
+<br/>
+<strong>21% Runner-up</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🥉%20Third%20Place-1%20Award-cd7f32?style=for-the-badge" alt="Third Place"/>
+<br/>
+<strong>4% Bronze</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎖️%20Special%20Prizes-11%20Awards-purple?style=for-the-badge" alt="Special Prizes"/>
+<br/>
+<strong>46% Recognition</strong>
+</td>
+</tr>
+</table>
 
-**🌟 Top Performing Platforms:**
-- ETHGlobal: 15 awards (63%)
-- Base/Coinbase: 3 awards (13%)
-- Independent Hackathons: 6 awards (24%)
+### 🌟 **Platform Performance**
+
+| Platform | Awards | Success Rate | Notable Achievements |
+|----------|--------|--------------|---------------------|
+| 🌐 **ETHGlobal** | 15 | 63% | Consistent top performer across multiple events |
+| 🔵 **Base/Coinbase** | 3 | 13% | Strong presence in Base ecosystem |
+| 🏗️ **Independent** | 6 | 24% | Diverse hackathon participation |
+
+<img src="https://img.shields.io/badge/Building%20the%20future%20of%20Web3-one%20hackathon%20at%20a%20time-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 Builder"/>
 
 </div>
 
