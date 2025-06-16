@@ -277,25 +277,86 @@
 
 <br />
 
-## Let's Connect! 📅
-Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.com/JulioMCruz)
+## 🤝 Let's Connect & Collaborate!
 
-<h2 align="left">Connect with me:</h2>
+<p>I'm always excited to connect with fellow developers, entrepreneurs, and Web3 enthusiasts. Whether you're looking to collaborate on cutting-edge blockchain projects, need consultation on decentralized solutions, or just want to chat about the future of technology, I'd love to hear from you!</p>
 
-<p align="left"> <a href="https://twitter.com/juliomcruz" target="blank"><img src="https://img.shields.io/twitter/follow/juliomcruz?logo=twitter&style=for-the-badge" alt="juliomcruz" /></a> </p>
+### 📅 Schedule a Meeting
+<a href="https://calendly.com/JulioMCruz" target="_blank">
+  <img src="https://img.shields.io/badge/📅%20Schedule%20Meeting-Calendly-blue?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting"/>
+</a>
 
-- 👯 I'm looking to collaborate on **Web 3 technologies**
+### 🌐 Connect With Me
 
-- 🤝 I'm looking for help with **Web 3 technologies**
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://twitter.com/juliomcruz" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/juliomcruz" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center">
+<a href="https://discord.gg/JulioMCruz" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+</td>
+<td align="center">
+<a href="https://farcaster.xyz/Juliomcruz" target="_blank">
+<img src="https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster"/>
+</a>
+</td>
+</tr>
+</table>
 
-- 💬 Ask me about **Web Technologies**
+<a href="https://twitter.com/juliomcruz" target="_blank">
+<img src="https://img.shields.io/twitter/follow/juliomcruz?logo=x&style=for-the-badge&color=000000&label=Follow%20on%20X" alt="X Follow"/>
+</a>
 
-- 📫 How to reach me **julio.cruz@eb-ms.net**
+<a href="https://farcaster.xyz/Juliomcruz" target="_blank">
+<img src="https://img.shields.io/badge/Follow%20on%20Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Follow on Farcaster"/>
+</a>
 
-<p align="left">
-<a href="https://twitter.com/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juliomcruz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliomcruz" height="30" width="40" /></a>
-<a href="https://discord.gg/JulioMCruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz" height="30" width="40" /></a>
+### 💼 What I'm Looking For
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤝%20Collaboration-Web3%20Projects-success?style=flat-square" alt="Collaboration"/>
+<br/>
+<strong>Partnership Opportunities</strong>
+<br/>
+<em>Building the future of decentralized technology</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💡%20Consultation-Blockchain%20Solutions-info?style=flat-square" alt="Consultation"/>
+<br/>
+<strong>Technical Consultation</strong>
+<br/>
+<em>Expert guidance on Web3 implementations</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀%20Innovation-Hackathons%20&%20Events-warning?style=flat-square" alt="Innovation"/>
+<br/>
+<strong>Hackathon Partnerships</strong>
+<br/>
+<em>Let's build award-winning solutions together</em>
+</td>
+</tr>
+</table>
+
+### 📧 Direct Contact
+
+<p>
+<img src="https://img.shields.io/badge/Email-julio.cruz@eb--ms.net-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </p>
+
+<p><em>"Innovation happens when passionate minds collaborate. Let's create something extraordinary together!"</em></p>
+
+</div>
 
 
