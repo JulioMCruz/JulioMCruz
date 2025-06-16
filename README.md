@@ -313,13 +313,13 @@
 </tr>
 </table>
 
-<a href="https://twitter.com/juliomcruz" target="_blank">
+<!-- <a href="https://twitter.com/juliomcruz" target="_blank">
 <img src="https://img.shields.io/twitter/follow/juliomcruz?logo=x&style=for-the-badge&color=000000&label=Follow%20on%20X" alt="X Follow"/>
 </a>
 
 <a href="https://farcaster.xyz/Juliomcruz" target="_blank">
 <img src="https://img.shields.io/badge/Follow%20on%20Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Follow on Farcaster"/>
-</a>
+</a> -->
 
 ### 💼 What I'm Looking For
 
