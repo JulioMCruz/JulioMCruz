@@ -16,18 +16,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
-## Let's Connect! 📅
-Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.com/JulioMCruz)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JulioMCruz)
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juliomcruz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliomcruz" height="30" width="40" /></a>
-<a href="https://discord.gg/JulioMCruz#8119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz#8119" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">🏆 Honors & Awards</h2>
 
 <div align="center">
@@ -289,6 +277,9 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 
 <br />
 
+## Let's Connect! 📅
+Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.com/JulioMCruz)
+
 <h2 align="left">Connect with me:</h2>
 
 <p align="left"> <a href="https://twitter.com/juliomcruz" target="blank"><img src="https://img.shields.io/twitter/follow/juliomcruz?logo=twitter&style=for-the-badge" alt="juliomcruz" /></a> </p>
@@ -304,8 +295,7 @@ Click here to schedule a meeting: [Schedule a Meeting with Me](https://calendly.
 <p align="left">
 <a href="https://twitter.com/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juliomcruz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juliomcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliomcruz" height="30" width="40" /></a>
-<a href="https://discord.gg/JulioMCruz#8119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz#8119" height="30" width="40" /></a>
+<a href="https://discord.gg/JulioMCruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JulioMCruz" height="30" width="40" /></a>
 </p>
-
 
 
