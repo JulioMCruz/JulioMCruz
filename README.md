@@ -56,11 +56,15 @@
 
 ---
 
-## 🗓️ **2025 Achievements** `5 Awards`
+## 🗓️ **2025 Achievements** `6 Awards`
 
 <table>
 <tr>
 <td width="60%">
+
+**🏆 PERMISSIONLESS IV** - *June 22, 2025*  
+**Product:** [Flow Passport](https://github.com/SilviaMogasEth/Permissionless-RWAFLOW)  
+🥇 **Flow Network - BUILD WITH FLOW: Pool place**
 
 **🏆 ETH Global Prague** - *June 1, 2025*  
 **Product:** [Kairos](https://ethglobal.com/showcase/kairos-75wyr)  
