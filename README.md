@@ -19,8 +19,8 @@
 <h2 align="center">🏆 Honors & Awards</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Awards-24-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
-  <img src="https://img.shields.io/badge/First%20Place-7-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
+  <img src="https://img.shields.io/badge/Total%20Awards-25-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
+  <img src="https://img.shields.io/badge/First%20Place-8-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
   <img src="https://img.shields.io/badge/Second%20Place-5-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
   <img src="https://img.shields.io/badge/Third%20Place-1-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
 </div>
@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2025-5%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
+        <img src="https://img.shields.io/badge/2025-6%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
         <br/>
         <strong>🔥 Active Year</strong>
       </td>
@@ -74,12 +74,12 @@
 **Product:** [AI ART3 HUB](https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4)  
 🏆 **BASED BATCH - LATAM WINNER**
 
+</td>
+<td width="40%">
+
 **🏆 ETHSF Hackathon 2025** - *March 15, 2025*  
 **Product:** [My Moments](https://devfolio.co/projects/moments-7202)  
 🥉 **Base: Third Prize**
-
-</td>
-<td width="40%">
 
 **🏆 ETH Denver 2025** - *March 1, 2025*  
 **Product:** [mememe, memecoins in your pocket](https://devfolio.co/projects/mememe-memecoins-in-your-pocket-71e7)  
@@ -230,14 +230,14 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🥇%20First%20Place-7%20Awards-gold?style=for-the-badge" alt="First Place"/>
+<img src="https://img.shields.io/badge/🥇%20First%20Place-8%20Awards-gold?style=for-the-badge" alt="First Place"/>
 <br/>
-<strong>29% Win Rate</strong>
+<strong>32% Win Rate</strong>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🥈%20Second%20Place-5%20Awards-silver?style=for-the-badge" alt="Second Place"/>
 <br/>
-<strong>21% Runner-up</strong>
+<strong>20% Runner-up</strong>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🥉%20Third%20Place-1%20Award-cd7f32?style=for-the-badge" alt="Third Place"/>
@@ -247,7 +247,7 @@
 <td align="center">
 <img src="https://img.shields.io/badge/🎖️%20Special%20Prizes-11%20Awards-purple?style=for-the-badge" alt="Special Prizes"/>
 <br/>
-<strong>46% Recognition</strong>
+<strong>44% Recognition</strong>
 </td>
 </tr>
 </table>
@@ -290,7 +290,7 @@
   <img src="https://img.shields.io/badge/📅%20Schedule%20Meeting-Calendly-blue?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting"/>
 </a>
 
-### 🌐 Connect With Me
+### 🤝 Connect With Me
 
 <table align="center">
 <tr>
