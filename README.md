@@ -19,10 +19,10 @@
 <h2 align="center">🏆 Honors & Awards</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Awards-25-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
+  <img src="https://img.shields.io/badge/Total%20Awards-28-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
   <img src="https://img.shields.io/badge/First%20Place-8-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
-  <img src="https://img.shields.io/badge/Second%20Place-5-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
-  <img src="https://img.shields.io/badge/Third%20Place-1-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
+  <img src="https://img.shields.io/badge/Second%20Place-6-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
+  <img src="https://img.shields.io/badge/Third%20Place-2-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2025-6%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
+        <img src="https://img.shields.io/badge/2025-9%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
         <br/>
         <strong>🔥 Active Year</strong>
       </td>
@@ -56,36 +56,42 @@
 
 ---
 
-## 🗓️ **2025 Achievements** `6 Awards`
+## 🗓️ **2025 Achievements** `9 Awards`
 
 <table>
 <tr>
 <td width="60%">
 
-**🏆 PERMISSIONLESS IV** - *June 22, 2025*  
+**🌊 ETH Global Cannes** - *July 6, 2025*  
+**Product:** [PolyBet](https://ethglobal.com/showcase/polybet-p884n)  
+🏆 **ETHGlobal - 🏆 ETHGlobal Cannes 2025 Finalist**
+🤖 **Artificial Superintelligence Alliance - Innovator's Edge: for most impactful and useful AI Agent: 2nd place**
+🌴 **Oasis Protocol - Build on Oasis Stack: 3rd place**
+
+**🔐 PERMISSIONLESS IV** - *June 22, 2025*  
 **Product:** [Flow Passport](https://github.com/SilviaMogasEth/Permissionless-RWAFLOW)  
-🥇 **Flow Network - BUILD WITH FLOW: Pool place**
+💎 **Flow Network - BUILD WITH FLOW: Pool place**
 
-**🏆 ETH Global Prague** - *June 1, 2025*  
+**🏰 ETH Global Prague** - *June 1, 2025*  
 **Product:** [Kairos](https://ethglobal.com/showcase/kairos-75wyr)  
-🥇 **Flare Network - MAIN TRACK: 1st place**
+🔥 **Flare Network - MAIN TRACK: 1st place**
 
-**🏆 Base Batches - Latam** - *May 17, 2025*  
+**🎨 Base Batches - Latam** - *May 17, 2025*  
 **Product:** [AI ART3 HUB](https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4)  
 🏆 **BASED BATCH - LATAM WINNER**
 
 </td>
 <td width="40%">
 
-**🏆 ETHSF Hackathon 2025** - *March 15, 2025*  
+**🌉 ETHSF Hackathon 2025** - *March 15, 2025*  
 **Product:** [My Moments](https://devfolio.co/projects/moments-7202)  
 🥉 **Base: Third Prize**
 
-**🏆 ETH Denver 2025** - *March 1, 2025*  
+**🏔️ ETH Denver 2025** - *March 1, 2025*  
 **Product:** [mememe, memecoins in your pocket](https://devfolio.co/projects/mememe-memecoins-in-your-pocket-71e7)  
 🥈 **Divvi: Second Prize - NextGen DeFi UX**
 
-**🏆 Agentic Ethereum** - *February 14, 2025*  
+**🤖 Agentic Ethereum** - *February 14, 2025*  
 **Product:** [Infinity](https://ethglobal.com/)  
 🎖️ **Coinbase Developer Platform - AgentKit Pool Prize**
 
@@ -104,44 +110,44 @@
 <tr>
 <td width="50%">
 
-**🏆 ETH Global Bangkok** - *November 17, 2024*  
+**🌴 ETH Global Bangkok** - *November 17, 2024*  
 **Product:** [FlashFi](https://ethglobal.com/showcase/flashfi-g27p4)  
 🥈 **Celo - Best Open-Source Tool Built on Celo L2: 2nd place**  
 🥈 **LayerZero - Best Omnichain Solution: 2nd place**  
 🏆 **Rootstock - Best DeFi dApp on Rootstock**  
 🎖️ **Blockscout - Blockscout Explorer Big Pool Prize**
 
-**🏆 Base Around The World - Latin America** - *October 30, 2024*  
+**🌎 Base Around The World - Latin America** - *October 30, 2024*  
 **Product:** [CrediTalent](https://devfolio.co/projects/credittalent-42f6)  
 🏆 **BASED LATAM WINNER**
 
-**🏆 ETH Global San Francisco** - *October 20, 2024*  
+**🌉 ETH Global San Francisco** - *October 20, 2024*  
 **Product:** [Aurum](https://ethglobal.com/showcase/aurum-7ry36)  
 🥇 **Chronicle Protocol - Best Integration: 1st place**  
 🏆 **Unlimit - Crypto Checkouts**
 
-**🏆 Permissionless III** - *October 10, 2024*  
+**🔐 Permissionless III** - *October 10, 2024*  
 **Product:** [M5pire](https://app.buidlbox.io/projects/m5pire?path=projects%2Fm5pire)  
 🏆 **Rootstock - Build an EVM dApp on Bitcoin using Rootstock**
 
 </td>
 <td width="50%">
 
-**🏆 Superhack 2024** - *August 16, 2024*  
+**⚡ Superhack 2024** - *August 16, 2024*  
 **Product:** [XocPay](https://ethglobal.com/showcase/xocpay-uji2b)  
 🎖️ **Worldcoin - Pool Prize**
 
-**🏆 ETH Global Brussels** - *July 14, 2024*  
+**🏛️ ETH Global Brussels** - *July 14, 2024*  
 **Product:** [n/acc](https://ethglobal.com/showcase/n-acc-fa1kp)  
 🥇 **Chronicle Protocol - DeFi Track: First Place**  
 🏆 **Polygon - Best ZK dApp**
 
-**🏆 ETH Global London** - *March 17, 2024*  
+**🇬🇧 ETH Global London** - *March 17, 2024*  
 **Product:** [Zycket](https://ethglobal.com/showcase/zycket-hxc9f)  
 🎖️ **Chiliz - Pool Prize**  
 🎖️ **Arbitrum - Qualifying Arbitrum**
 
-**🏆 LFGHO** - *January 24, 2024*  
+**👨‍👩‍👧‍👦 LFGHO** - *January 24, 2024*  
 **Product:** [Streamline](https://ethglobal.com/showcase/streamline-40r8i)  
 🎖️ **Family - Pool Prize**
 
@@ -162,26 +168,26 @@
 <tr>
 <td width="50%">
 
-**🏆 Algorand Build-a-Bull Hackathon** - *November 19, 2023*  
+**🐂 Algorand Build-a-Bull Hackathon** - *November 19, 2023*  
 **Product:** [LuxFlo](https://dorahacks.io/buidl/8021)  
 🏅 **Consumer Track - Top 5**
 
-**🏆 ETH Miami** - *October 29, 2023*  
+**🌴 ETH Miami** - *October 29, 2023*  
 **Product:** [HobbyFlo](https://dorahacks.io/buidl/7822)  
 🥇 **Propy - 1st Place - Real World Assets**  
 🥈 **Celo - 2nd Place - ReFi Track**
 
-**🏆 ETHOnline 2023** - *October 27, 2023*  
+**🌐 ETHOnline 2023** - *October 27, 2023*  
 **Product:** [Kindred Protocol](https://ethglobal.com/showcase/kindred-0khmr)  
 🏆 **Scroll - Best Use**  
 🎖️ **Scroll - Pool Prize**
 
-**🏆 ETHGlobal New York** - *September 24, 2023*  
+**🗽 ETHGlobal New York** - *September 24, 2023*  
 **Product:** [TeachAI](https://ethglobal.com/showcase/teachai-pkr1z)  
 🏆 **Cartesi - Best MVP**  
 🏆 **The Graph - Best New Subgraph/Substream**
 
-**🏆 ETH Chicago Hackathon** - *September 17, 2023*  
+**🏙️ ETH Chicago Hackathon** - *September 17, 2023*  
 **Product:** [ChiCare](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/projects/clmnjpnvf058ktn016yi81dha/idea)  
 🏆 **ETHChi for Good**  
 🏆 **API3**
@@ -189,16 +195,16 @@
 </td>
 <td width="50%">
 
-**🏆 Super Hack** - *August 13, 2023*  
+**⚡ Super Hack** - *August 13, 2023*  
 **Product:** [Passport Global](https://ethglobal.com/showcase/passportglobal-jptoi)  
 🎖️ **Mode - Prize Pool**
 
-**🏆 ETHGlobal Waterloo** - *June 25, 2023*  
+**💧 ETHGlobal Waterloo** - *June 25, 2023*  
 **Product:** [User Proof Membership](https://ethglobal.com/showcase/user-proof-membership-jvwx3)  
 🏆 **Sismo - Best Technical WOW Factor**  
 🎖️ **Polygon - Pool Prize**
 
-**🏆 Miami Buildhaton** - *April 2, 2023*  
+**🌴 Miami Buildhaton** - *April 2, 2023*  
 **Product:** [ETHMiami.xyz](https://devpost.com/software/ethmiami-xyz-ov0icb)  
 🏆 **OWL Protocol Bounties**
 
@@ -215,7 +221,7 @@
 <details>
 <summary><strong>🔽 Click to expand 2022 awards</strong></summary>
 
-**🏆 Hack FEVM** - *November 26, 2022*  
+**🔥 Hack FEVM** - *November 26, 2022*  
 **Product:** [CredLancer](https://ethglobal.com/showcase/credlancer-credentialed-freelancer-protocol-znzpf)  
 🏅 **HackFEVM Finalist**
 
@@ -232,22 +238,22 @@
 <td align="center">
 <img src="https://img.shields.io/badge/🥇%20First%20Place-8%20Awards-gold?style=for-the-badge" alt="First Place"/>
 <br/>
-<strong>32% Win Rate</strong>
+<strong>29% Win Rate</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🥈%20Second%20Place-5%20Awards-silver?style=for-the-badge" alt="Second Place"/>
+<img src="https://img.shields.io/badge/🥈%20Second%20Place-6%20Awards-silver?style=for-the-badge" alt="Second Place"/>
 <br/>
-<strong>20% Runner-up</strong>
+<strong>21% Runner-up</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🥉%20Third%20Place-1%20Award-cd7f32?style=for-the-badge" alt="Third Place"/>
+<img src="https://img.shields.io/badge/🥉%20Third%20Place-2%20Awards-cd7f32?style=for-the-badge" alt="Third Place"/>
 <br/>
-<strong>4% Bronze</strong>
+<strong>7% Bronze</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎖️%20Special%20Prizes-11%20Awards-purple?style=for-the-badge" alt="Special Prizes"/>
+<img src="https://img.shields.io/badge/🎖️%20Special%20Prizes-12%20Awards-purple?style=for-the-badge" alt="Special Prizes"/>
 <br/>
-<strong>44% Recognition</strong>
+<strong>43% Recognition</strong>
 </td>
 </tr>
 </table>
