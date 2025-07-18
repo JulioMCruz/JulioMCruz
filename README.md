@@ -64,8 +64,8 @@
 
 **🌊 ETH Global Cannes** - *July 6, 2025*  
 **Product:** [PolyBet](https://ethglobal.com/showcase/polybet-p884n)  
-🏆 **ETHGlobal - 🏆 ETHGlobal Cannes 2025 Finalist**
-🤖 **Artificial Superintelligence Alliance - Innovator's Edge: for most impactful and useful AI Agent: 2nd place**
+🏆 **ETHGlobal - 🏆 ETHGlobal Cannes 2025 Finalist**  <br>
+🤖 **Artificial Superintelligence Alliance - Innovator's Edge: for most impactful and useful AI Agent: 2nd place**  <br>
 🌴 **Oasis Protocol - Build on Oasis Stack: 3rd place**
 
 **🔐 PERMISSIONLESS IV** - *June 22, 2025*  
@@ -76,12 +76,12 @@
 **Product:** [Kairos](https://ethglobal.com/showcase/kairos-75wyr)  
 🔥 **Flare Network - MAIN TRACK: 1st place**
 
+</td>
+<td width="40%">
+
 **🎨 Base Batches - Latam** - *May 17, 2025*  
 **Product:** [AI ART3 HUB](https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4)  
 🏆 **BASED BATCH - LATAM WINNER**
-
-</td>
-<td width="40%">
 
 **🌉 ETHSF Hackathon 2025** - *March 15, 2025*  
 **Product:** [My Moments](https://devfolio.co/projects/moments-7202)  
@@ -187,13 +187,13 @@
 🏆 **Cartesi - Best MVP**  
 🏆 **The Graph - Best New Subgraph/Substream**
 
+</td>
+<td width="50%">
+
 **🏙️ ETH Chicago Hackathon** - *September 17, 2023*  
 **Product:** [ChiCare](https://taikai.network/ethchicago/hackathons/ETHChicagoHackathon2023/projects/clmnjpnvf058ktn016yi81dha/idea)  
 🏆 **ETHChi for Good**  
 🏆 **API3**
-
-</td>
-<td width="50%">
 
 **⚡ Super Hack** - *August 13, 2023*  
 **Product:** [Passport Global](https://ethglobal.com/showcase/passportglobal-jptoi)  
