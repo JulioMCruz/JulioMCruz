@@ -19,8 +19,8 @@
 <h2 align="center">🏆 Honors & Awards</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Awards-28-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
-  <img src="https://img.shields.io/badge/First%20Place-8-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
+  <img src="https://img.shields.io/badge/Total%20Awards-30-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
+  <img src="https://img.shields.io/badge/First%20Place-10-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
   <img src="https://img.shields.io/badge/Second%20Place-6-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
   <img src="https://img.shields.io/badge/Third%20Place-2-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
 </div>
@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2025-9%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
+        <img src="https://img.shields.io/badge/2025-11%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
         <br/>
         <strong>🔥 Active Year</strong>
       </td>
@@ -56,11 +56,19 @@
 
 ---
 
-## 🗓️ **2025 Achievements** `9 Awards`
+## 🗓️ **2025 Achievements** `11 Awards`
 
 <table>
 <tr>
 <td width="60%">
+
+**🌊 CodeNYC** - *August 10, 2025*  
+**Product:** [SnapCoffee](https://devspot.app/en/projects/427)  
+🥉 **CDP Onchain Checkout Flow: Third Prize**
+
+**🌊 ETH Unite Defi** - *August 8, 2025*  
+**Product:** [StellHydra](https://ethglobal.com/showcase/stellhydra-sdiwk)  
+🥉 **Stellar - Best use of Stellar x 1inch: 3rd place**
 
 **🌊 ETH Global Cannes** - *July 6, 2025*  
 **Product:** [PolyBet](https://ethglobal.com/showcase/polybet-p884n)  
@@ -236,9 +244,9 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🥇%20First%20Place-8%20Awards-gold?style=for-the-badge" alt="First Place"/>
+<img src="https://img.shields.io/badge/🥇%20First%20Place-10%20Awards-gold?style=for-the-badge" alt="First Place"/>
 <br/>
-<strong>29% Win Rate</strong>
+<strong>33% Win Rate</strong>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🥈%20Second%20Place-6%20Awards-silver?style=for-the-badge" alt="Second Place"/>
