@@ -80,12 +80,12 @@
 **Product:** [Flow Passport](https://github.com/SilviaMogasEth/Permissionless-RWAFLOW)  
 💎 **Flow Network - BUILD WITH FLOW: Pool place**
 
+</td>
+<td width="40%">
+
 **🏰 ETH Global Prague** - *June 1, 2025*  
 **Product:** [Kairos](https://ethglobal.com/showcase/kairos-75wyr)  
 🔥 **Flare Network - MAIN TRACK: 1st place**
-
-</td>
-<td width="40%">
 
 **🎨 Base Batches - Latam** - *May 17, 2025*  
 **Product:** [AI ART3 HUB](https://devfolio.co/projects/nounish-agent-ai-para-artistas-que-quieren-entrar-a-web-sin-friccion-4dc4)  
