@@ -68,7 +68,7 @@
 
 ---
 
-## 🗓️ **2026 Achievements** `6 Awards`
+## 🗓️ **2026 Achievements**
 
 <table>
 <tr>
@@ -90,6 +90,10 @@
 **🇵🇹 ETHGlobal Lisbon** - *2026*  
 **Product:** [EQLTY](https://ethglobal.com/showcase/eqlty-smqdg)  
 🥇 **The Graph - Best AI Use Case of The Graph (Continuity): 1st place**
+
+**💰 HackMoney** - *2026*  
+**Product:** [UniPerk](https://ethglobal.com/showcase/uniperk-2vcmt)  
+🎖️ **ENS - Integrate ENS: Prize Pool**
 
 </td>
 </tr>
