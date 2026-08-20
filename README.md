@@ -95,7 +95,7 @@
 **Product:** [SWARM](https://devfolio.co/projects/swarm-548b)  
 🥇 **Hedera - On-Chain Automation with Hedera Schedule Service: 1st place**
 
-**💰 HackMoney 2026** - *February 11, 2026*  
+**⚡ HackMoney 2026** - *February 11, 2026*  
 **Product:** [UniPerk](https://ethglobal.com/showcase/uniperk-2vcmt)  
 🎖️ **ENS - Integrate ENS: Prize Pool**
 
