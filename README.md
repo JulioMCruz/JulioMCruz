@@ -366,8 +366,6 @@
 <img src="https://img.shields.io/badge/🤖%20Building-agent%20infra-0052ff?style=flat-square" alt="Agent infrastructure"/>
 <br/>
 <strong>Agent identity, payments, coordination</strong>
-<br/>
-<em>Infrastructure for the agentic economy</em>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/📖%20Shipping-in%20the%20open-24292e?style=flat-square" alt="Open source"/>
