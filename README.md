@@ -68,6 +68,35 @@
 
 ---
 
+## 🗓️ **2026 Achievements** `6 Awards`
+
+<table>
+<tr>
+<td width="50%">
+
+**🏖️ ETHGlobal Cannes** - *2026*  
+**Product:** [Flow Broker](https://ethglobal.com/showcase/flow-broker-ez5rr)  
+🥉 **Uniswap Foundation - Best Uniswap API Integration: 3rd place**  <br>
+🎖️ **Chainlink - Best workflow with Chainlink CRE**
+
+**🗽 ETHGlobal New York** - *2026*  
+**Product:** [Stream Vaults](https://ethglobal.com/showcase/stream-vaults-m9qz5)  
+🎖️ **Ledger - AI Agents x Ledger: 4th place**  <br>
+🥈 **Uniswap Foundation - Best Uniswap API Integration: 2nd place**
+
+</td>
+<td width="50%">
+
+**🇵🇹 ETHGlobal Lisbon** - *2026*  
+**Product:** [EQLTY](https://ethglobal.com/showcase/eqlty-smqdg)  
+🥇 **The Graph - Best AI Use Case of The Graph (Continuity): 1st place**
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🗓️ **2025 Achievements** `11 Awards`
 
 <table>
