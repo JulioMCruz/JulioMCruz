@@ -107,6 +107,9 @@
 
 ## 🗓️ **2025 Achievements** `11 Awards`
 
+<details>
+<summary><strong>🔽 Click to expand 2025 awards</strong></summary>
+
 <table>
 <tr>
 <td width="60%">
@@ -155,6 +158,8 @@
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
