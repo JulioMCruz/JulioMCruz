@@ -68,36 +68,36 @@
 
 ---
 
-## 🗓️ **2026 Achievements**
+## 🗓️ **2026 Achievements** `7 Awards`
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-**🏖️ ETHGlobal Cannes** - *2026*  
-**Product:** [Flow Broker](https://ethglobal.com/showcase/flow-broker-ez5rr)  
-🥉 **Uniswap Foundation - Best Uniswap API Integration: 3rd place**  <br>
-🎖️ **Chainlink - Best workflow with Chainlink CRE**
+**🇵🇹 ETH Global Lisbon** - *July 24, 2026*  
+**Product:** [EQLTY](https://ethglobal.com/showcase/eqlty-smqdg)  
+🥇 **The Graph - Best AI Use Case of The Graph (Continuity): 1st place**
 
-**🗽 ETHGlobal New York** - *2026*  
+**🗽 ETH Global New York** - *June 12, 2026*  
 **Product:** [Stream Vaults](https://ethglobal.com/showcase/stream-vaults-m9qz5)  
 🎖️ **Ledger - AI Agents x Ledger: 4th place**  <br>
 🥈 **Uniswap Foundation - Best Uniswap API Integration: 2nd place**
 
+**🏖️ ETH Global Cannes** - *April 3, 2026*  
+**Product:** [Flow Broker](https://ethglobal.com/showcase/flow-broker-ez5rr)  
+🥉 **Uniswap Foundation - Best Uniswap API Integration: 3rd place**  <br>
+🎖️ **Chainlink - Best workflow with Chainlink CRE**
+
 </td>
-<td width="50%">
+<td width="40%">
 
-**🇵🇹 ETHGlobal Lisbon** - *2026*  
-**Product:** [EQLTY](https://ethglobal.com/showcase/eqlty-smqdg)  
-🥇 **The Graph - Best AI Use Case of The Graph (Continuity): 1st place**
-
-**💰 HackMoney** - *2026*  
-**Product:** [UniPerk](https://ethglobal.com/showcase/uniperk-2vcmt)  
-🎖️ **ENS - Integrate ENS: Prize Pool**
-
-**🏔️ ETHDenver** - *2026*  
+**🏔️ ETH Denver 2026** - *February 18, 2026*  
 **Product:** [SWARM](https://devfolio.co/projects/swarm-548b)  
 🥇 **Hedera - On-Chain Automation with Hedera Schedule Service: 1st place**
+
+**💰 HackMoney 2026** - *February 11, 2026*  
+**Product:** [UniPerk](https://ethglobal.com/showcase/uniperk-2vcmt)  
+🎖️ **ENS - Integrate ENS: Prize Pool**
 
 </td>
 </tr>
