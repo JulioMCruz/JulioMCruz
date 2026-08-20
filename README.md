@@ -3,10 +3,22 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Julio M Cruz</h1>
-<h3 align="center">Sr. Software Engineer | Master of Science | Onchain Builder</h3>
+<h1 align="center">Julio M Cruz</h1>
+<h3 align="center">Founder of <a href="https://perkos.xyz">PerkOS</a> · Software Engineer, 25 years · Onchain builder</h3>
 
-<p>Dynamic and innovative Onchain developer with a robust ability to analyze and implement decentralized solutions. I have profound expertise in cloud integrations, demonstrate top-tier problem-solving aptitude, and excel in collaborative settings, driving projects to fruition.</p>
+<p align="center"><b>I build AI teams for small businesses.</b></p>
+
+<p>In April 2020 I was an engineer inside the U.S. Small Business Administration when the Paycheck Protection Program launched. Millions of owners hit our servers in the same week, trying to reach the loan that decided whether they survived the year. The system crashed. A very small team, working alongside AWS, had about a week and a half to fix it. Within two weeks over a million small businesses had been approved.</p>
+
+<p>I have never forgotten who was on the other side of those servers. Not companies. Owners, trying to keep people employed.</p>
+
+<p>I started my career writing software in Lima, Peru, and spent six years building for the U.S. Department of State with a Top Secret clearance. In September 2025 I left that work to build <a href="https://perkos.xyz"><b>PerkOS</b></a> full time: a workspace where a small business hires a team of AI teammates the way it would hire people. They draft, you approve. Idle teammates hibernate to about two cents a month, which is what makes a price a corner shop can actually pay.</p>
+
+<p align="center">
+  <a href="https://perkos.xyz"><img src="https://img.shields.io/badge/PerkOS-Live-6366f1?style=for-the-badge" alt="PerkOS"/></a>
+  <a href="https://github.com/PerkOS-xyz"><img src="https://img.shields.io/badge/94%20repos-open%20source-24292e?style=for-the-badge&logo=github" alt="PerkOS org"/></a>
+  <a href="https://stack.perkos.xyz/api/v2/x402/supported"><img src="https://img.shields.io/badge/x402-facilitator%20on%20Base-0052ff?style=for-the-badge" alt="x402"/></a>
+</p>
 
 <div align="center" style="margin: 0.5rem 0;">
   <a href="https://app.talentprotocol.com/4e9db003-da84-466e-a951-c4c8973dfda9" target="_blank" rel="noopener noreferrer">
@@ -295,9 +307,9 @@
 
 <br />
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Get in touch
 
-<p>I'm always excited to connect with fellow developers, entrepreneurs, and Web3 enthusiasts. Whether you're looking to collaborate on cutting-edge blockchain projects, need consultation on decentralized solutions, or just want to chat about the future of technology, I'd love to hear from you!</p>
+<p>Building PerkOS full time. Happy to talk with people working on agent infrastructure, onchain payments, or tools for small businesses, and with anyone who has run into the same problems I have.</p>
 
 ### 📅 Schedule a Meeting
 <a href="https://calendly.com/JulioMCruz" target="_blank">
@@ -339,30 +351,30 @@
 <img src="https://img.shields.io/badge/Follow%20on%20Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white" alt="Follow on Farcaster"/>
 </a> -->
 
-### 💼 What I'm Looking For
+### 💼 What I'm working on
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤝%20Collaboration-Web3%20Projects-success?style=flat-square" alt="Collaboration"/>
+<img src="https://img.shields.io/badge/🏗️%20Building-PerkOS-6366f1?style=flat-square" alt="PerkOS"/>
 <br/>
-<strong>Partnership Opportunities</strong>
+<strong>AI teams for small businesses</strong>
 <br/>
-<em>Building the future of decentralized technology</em>
+<em>One click to a working team. They draft, you approve.</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/💡%20Consultation-Blockchain%20Solutions-info?style=flat-square" alt="Consultation"/>
+<img src="https://img.shields.io/badge/💸%20Operating-x402%20facilitator-0052ff?style=flat-square" alt="x402"/>
 <br/>
-<strong>Technical Consultation</strong>
+<strong>Agent payments on Base</strong>
 <br/>
-<em>Expert guidance on Web3 implementations</em>
+<em>USDC settlement, running in production</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🚀%20Innovation-Hackathons%20&%20Events-warning?style=flat-square" alt="Innovation"/>
+<img src="https://img.shields.io/badge/📖%20Shipping-in%20the%20open-24292e?style=flat-square" alt="Open source"/>
 <br/>
-<strong>Hackathon Partnerships</strong>
+<strong>94 public repositories</strong>
 <br/>
-<em>Let's build award-winning solutions together</em>
+<em>Infrastructure people trust should be readable</em>
 </td>
 </tr>
 </table>
