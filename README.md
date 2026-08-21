@@ -1,10 +1,10 @@
 <p dir="auto">
-<img src="/assets/ETHWall.jpeg" alt="Julio M Cruz" style="max-width: 100%;">
+<img src="/assets/artizen-header.jpg" alt="Julio M Cruz" style="max-width: 100%;">
 </p>
 
 
 <h1 align="center">Julio M Cruz</h1>
-<h3 align="center">Founder of <a href="https://perkos.xyz">PerkOS</a> · Software Engineer, 25 years · Onchain builder</h3>
+<h3 align="center">Software Engineer · AI agent infrastructure · Web3</h3>
 
 <p align="center"><b>I build AI teams for small businesses.</b></p>
 
@@ -405,11 +405,9 @@
 <em>One click to a working team. They draft, you approve.</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/💸%20Operating-x402%20facilitator-0052ff?style=flat-square" alt="x402"/>
+<img src="https://img.shields.io/badge/🤖%20Building-agent%20infra-0052ff?style=flat-square" alt="Agent infrastructure"/>
 <br/>
-<strong>Agent payments on Base</strong>
-<br/>
-<em>USDC settlement, running in production</em>
+<strong>Agent identity, payments, coordination</strong>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/📖%20Shipping-in%20the%20open-24292e?style=flat-square" alt="Open source"/>
