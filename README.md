@@ -330,7 +330,7 @@
 
 | Platform | Awards | Success Rate | Notable Achievements |
 |----------|--------|--------------|---------------------|
-| 🌐 **ETHGlobal** | 21 | 57% | Consistent top performer across multiple events |
+| 🌐 **ETHGlobal** | 21 | 63% | Consistent top performer across multiple events |
 | 🔵 **Base/Coinbase** | 3 | 13% | Strong presence in Base ecosystem |
 | 🏗️ **Independent** | 6 | 24% | Diverse hackathon participation |
 
