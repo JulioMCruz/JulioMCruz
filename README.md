@@ -31,10 +31,11 @@
 <h2 align="center">🏆 Honors & Awards</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Awards-30-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
-  <img src="https://img.shields.io/badge/First%20Place-10-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
-  <img src="https://img.shields.io/badge/Second%20Place-6-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
-  <img src="https://img.shields.io/badge/Third%20Place-2-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
+  <img src="https://img.shields.io/badge/Total%20Awards-37-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Total Awards"/>
+  <img src="https://img.shields.io/badge/First%20Place-12-brightgreen?style=for-the-badge&logo=medal&logoColor=white" alt="First Place"/>
+  <img src="https://img.shields.io/badge/Second%20Place-7-blue?style=for-the-badge&logo=medal&logoColor=white" alt="Second Place"/>
+  <img src="https://img.shields.io/badge/Third%20Place-3-orange?style=for-the-badge&logo=medal&logoColor=white" alt="Third Place"/>
+  <img src="https://img.shields.io/badge/Special%20Prizes-15-purple?style=for-the-badge&logo=award&logoColor=white" alt="Special Prizes"/>
 </div>
 
 <br/>
@@ -43,9 +44,14 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2025-11%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
+        <img src="https://img.shields.io/badge/2026-7%20Awards-ff4757?style=flat-square&logo=calendar" alt="2026"/>
         <br/>
         <strong>🔥 Active Year</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025-11%20Awards-ff6b6b?style=flat-square&logo=calendar" alt="2025"/>
+        <br/>
+        <strong>💪 Strong Year</strong>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2024-8%20Awards-4ecdc4?style=flat-square&logo=calendar" alt="2024"/>
@@ -298,24 +304,24 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🥇%20First%20Place-10%20Awards-gold?style=for-the-badge" alt="First Place"/>
+<img src="https://img.shields.io/badge/🥇%20First%20Place-12%20Awards-gold?style=for-the-badge" alt="First Place"/>
 <br/>
-<strong>33% Win Rate</strong>
+<strong>32% Win Rate</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🥈%20Second%20Place-6%20Awards-silver?style=for-the-badge" alt="Second Place"/>
+<img src="https://img.shields.io/badge/🥈%20Second%20Place-7%20Awards-silver?style=for-the-badge" alt="Second Place"/>
 <br/>
-<strong>21% Runner-up</strong>
+<strong>19% Runner-up</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🥉%20Third%20Place-2%20Awards-cd7f32?style=for-the-badge" alt="Third Place"/>
+<img src="https://img.shields.io/badge/🥉%20Third%20Place-3%20Awards-cd7f32?style=for-the-badge" alt="Third Place"/>
 <br/>
-<strong>7% Bronze</strong>
+<strong>8% Bronze</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎖️%20Special%20Prizes-12%20Awards-purple?style=for-the-badge" alt="Special Prizes"/>
+<img src="https://img.shields.io/badge/🎖️%20Special%20Prizes-15%20Awards-purple?style=for-the-badge" alt="Special Prizes"/>
 <br/>
-<strong>43% Recognition</strong>
+<strong>41% Recognition</strong>
 </td>
 </tr>
 </table>
@@ -324,7 +330,7 @@
 
 | Platform | Awards | Success Rate | Notable Achievements |
 |----------|--------|--------------|---------------------|
-| 🌐 **ETHGlobal** | 15 | 63% | Consistent top performer across multiple events |
+| 🌐 **ETHGlobal** | 21 | 57% | Consistent top performer across multiple events |
 | 🔵 **Base/Coinbase** | 3 | 13% | Strong presence in Base ecosystem |
 | 🏗️ **Independent** | 6 | 24% | Diverse hackathon participation |
 
