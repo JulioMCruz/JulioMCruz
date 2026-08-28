@@ -20,11 +20,13 @@
   <a href="https://stack.perkos.xyz/api/v2/x402/supported"><img src="https://img.shields.io/badge/x402-facilitator%20on%20Base-0052ff?style=for-the-badge" alt="x402"/></a>
 </p>
 
+<!--
 <div align="center" style="margin: 0.5rem 0;">
   <a href="https://app.talentprotocol.com/4e9db003-da84-466e-a951-c4c8973dfda9" target="_blank" rel="noopener noreferrer">
     <img src="https://talent-protocol-widget.codalabs.xyz/widget/0xc2564e41B7F5Cb66d2d99466450CfebcE9e8228f" alt="Talent Protocol Score" />
   </a>
 </div>
+-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juliomcruz&label=Profile%20views&color=0e75b6&style=flat" alt="juliomcruz" /> </p>
 
