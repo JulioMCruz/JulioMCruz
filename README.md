@@ -362,8 +362,8 @@
 <p>Building PerkOS full time. Happy to talk with people working on agent infrastructure, onchain payments, or tools for small businesses, and with anyone who has run into the same problems I have.</p>
 
 ### ☕ Buy me an x402 coffee
-<a href="https://buyacoffee.perkos.xyz/juliomcruz" target="_blank">
-  <img src="https://buyacoffee.perkos.xyz/badge/juliomcruz.svg" alt="Buy me an x402 coffee"/>
+<a href="https://buyacoffee.perkos.xyz/pay?to=0xc2564e41b7f5cb66d2d99466450cfebce9e8228f&name=Julio%20M%20Cruz" target="_blank">
+  <img src="https://buyacoffee.perkos.xyz/badge/0xc2564e41b7f5cb66d2d99466450cfebce9e8228f.svg" alt="Buy me an x402 coffee"/>
 </a>
 
 USDC on Base, one signature, no gas. Settled by the PerkOS facilitator through the CoffeeSplit contract.
