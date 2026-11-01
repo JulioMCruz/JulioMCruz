@@ -1,0 +1,27 @@
+# Add as .github/workflows/activity-graph.yml in your username/username
+# repository, or in your organization's .github repository. Commit it and open
+# the run in the Actions tab: its summary has the lines for your README.
+name: Activity graph
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JulioMCruz/org-activity-graph@v1
+        with:
+          publish: true
+          palette: seasonal
+          animate: true
+          effects: true
+          timezone: America/New_York
