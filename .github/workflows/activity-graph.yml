@@ -8,6 +8,7 @@ on:
     - cron: "17 6 * * *"
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - .github/workflows/activity-graph.yml
 
@@ -24,4 +25,5 @@ jobs:
           palette: seasonal
           animate: true
           effects: true
+          insights: true
           timezone: America/New_York
