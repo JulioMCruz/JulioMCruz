@@ -355,17 +355,6 @@
 </a>
 </div>
 
-<div align="center" style="margin: 2rem 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliomcruz&show_icons=true&locale=en&layout=compact" alt="juliomcruz" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juliomcruz&show_icons=true&locale=en" alt="juliomcruz" />
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JulioMCruz)
-  
-</div>
-
 <br />
 
 ## 🤝 Get in touch
